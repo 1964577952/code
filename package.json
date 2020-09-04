@@ -65,7 +65,7 @@
     "set-blocking": "^2.0.0",
     "shebang-command": "^1.2.0",
     "shebang-regex": "^2.0.0",
-    "showdown": "1.8.6",
+    "showdown": "1.9.1",
     "sortablejs": "1.7.0",
     "source-list-map": "^2.0.1",
     "tui-editor": "1.2.7",
